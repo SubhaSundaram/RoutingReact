@@ -1,0 +1,7 @@
+#projectdispay {
+  display: grid;
+  grid-template-columns: 40% 60%;
+}
+#projdesc {
+  background-color: aliceblue;
+}

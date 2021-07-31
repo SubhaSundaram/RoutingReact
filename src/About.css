@@ -1,0 +1,21 @@
+#underline {
+  display: block;
+  border-bottom: 2px solid black;
+  width: 100%;
+  padding: 5px;
+}
+#design {
+  display: grid;
+  grid-template-columns: 30% 70%;
+}
+.cont {
+  background-color: bisque;
+  width: 100%;
+}
+#about {
+  background-color: aliceblue;
+}
+#obj {
+  font-family: cursive;
+  font-size: medium;
+}
